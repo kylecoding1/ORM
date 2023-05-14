@@ -78,6 +78,11 @@ PUT (update) a category: Send a PUT request to /api/categories/:id, replacing :i
 DELETE a category: Send a DELETE request to /api/categories/:id, replacing :id with the actual ID of a category.
 Repeat similar steps for testing products and tags endpoints.
 
+Project links
+Github repository link : https://github.com/kylecoding1/ORM
+
+Deployed Application link: https://kylecoding1.github.io/ORM/
+
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to submit a pull request.
 
